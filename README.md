@@ -43,12 +43,12 @@ I love dinghy sailing and rescued an adult when I was ten by single-handedly tow
 
 **September 2022 - July 2026**
 
-Year 1 modules completed so far (With results from a combination of exams and coursework)
+Year 1 modules completed so far (with results from a combination of exams and coursework)
 
 - Discrete mathematics - 78%
 - C programming and algorithms - 97%
 - Systems and architecture - 98%
-- Computer fundementals - 98%
+- Computer fundamentals - 98%
 - Linear algebra
 - Databases and interfaces
 - Java
