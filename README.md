@@ -2,7 +2,7 @@
 
 Updated: April 2023
 
-> I am currently looking for an AI work placement for summer 2023, ideally in Norwich, Nottingham or London. I have lots of Python and database experience, and have covered several relevant topics during my first year including linear algebra, ML algorithms, training, bayes rules, forward and back propagation, pandas, numpy, matplotlib and scikit-learn. 
+> Currently on a work placement at Robotica Machine Learning
 
 I'm a first year student reading a [BSc in Computer Science with Artificial Intelligence and Year in Industry](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk).
 
