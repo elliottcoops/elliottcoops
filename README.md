@@ -49,14 +49,13 @@ Year 1 modules completed so far (with results from a combination of exams and co
 - C programming and algorithms - 97%
 - Systems and architecture - 98%
 - Computer fundamentals - 98%
-- Linear algebra
-- Databases and interfaces
-- Java
-- Haskell
-- Fundamentals of AI
-- Software engineering - Group project
-- Software engineering - Core processes
+- Linear algebra - 94%
+- Databases and interfaces - 84%
+- Java and Haskell - 78%
+- Fundamentals of AI - 90%
+- Software engineering - Group project and Exam - 82%
 
+Year 1 average: 89.5%
 
 ## Work experience so far
 
