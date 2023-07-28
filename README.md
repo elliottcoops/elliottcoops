@@ -1,6 +1,6 @@
 # Hi there, I'm Elliott Cooper
 
-Updated: April 2023
+Updated: July 2023
 
 > Currently on a work placement at Robotica Machine Learning
 
