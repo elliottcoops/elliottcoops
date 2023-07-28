@@ -61,6 +61,24 @@ Year 1 average: 89.5%
 
 ### [Robotica, Norwich](https://robotica.media)
 
+**Junior Software Developer, Summer Placement, June-July 2023**
+
+After last summer, I was kindly welcomed back to Robotica Machine Learning for a summer internship, taking the vast knowledge I had learnt from my first year, and applying it to a real working environment.
+
+My task was a research and development project into deepfakes. At a high level, Robotica envisages their signing avatars to look more photorealistic, thus to accomplish this, a layer of deepfake is required.
+
+The project started with exploring different open source software, until coming across a solution which was most complete. Ironically, this software was called FaceSwap, found on github. There are three main stages to this, all of which I thoroughly investigated; Extract; Train; Convert. The findings of this were written up in an extensive report, given to Robotica at the end of my placement.
+
+After playing around with the software on my local machine for a few days, it was clear that, alongside my machine reaching tropical island temperatures, that the training phase was far too slow, and needed some form of cloud computing to assist with the work.
+
+Robotica had previously been awarded free credits for OvhCloud - A cloud computing resource, from a competition. I was asked to jump on a call with the team there, to educate them on our needs and requirements, alongside establishing a relationship with the company. 
+
+OvhCloud provides instances, or remote machines, of which you can ssh into and control via a CLI. The next task was finding a way to get the FaceSwap open source onto the machine, and I accomplished this via creating a docker image, pushing it up to a private registry, and pulling it onto the remote machine. In addition, the training data, arguably the most important aspect of the whole process, was uploaded to some online object storage, and pulled onto the remote machine. 
+
+The whole experience has, once again, broadened my skills, knowledge, and insight into the world of AI and real world work, and makes me excited to learn more in the future.
+
+### [Robotica, Norwich](https://robotica.media)
+
 **Junior Software Developer, Summer Placement, August 2022**
 
 Robotica is an ML tech startup developing a fully automated solution for translating speech from 20 languages into signed languages using a realistic human avatar. My goal was to gather and prepare MP3 audio and transcript data from the open source ebook Project Gutenberg, to help improve their lip-sync service.
