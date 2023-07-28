@@ -15,12 +15,18 @@ I'm a first year student reading a [BSc in Computer Science with Artificial Inte
 
 ## Skills and favourite tools
 
-- Significant experience with Python, C, Java, PHP and SQL
-- Strong understanding of Haskell and functional programming
-- Hands on experience with HTML, CSS and JavaScript
-- Knowledge of using ARM assembly language
-- Daily experience of using Git, Linux and VS Code
-- Highly capable working in a team and independently 
+  - Strong academic record achieving 89% in Year 1 at university and A*A*A A-Levels at sixth form
+  - Passion for technology demonstrated through work experience and personal projects
+  - Poven understanding of advanced computer vision algorithms such as facial landmark detection 
+  - Highly skilled in Python with TensorFlow, OpenCV, NumPy, pandas, scikit-learn and Matplotlib
+  - Skilled in C, Haskell, Java, ARM assembly, PHP, HTML, JavaScript and CSS
+  - Experience working with Docker, VMs and cloud platforms including OVHcloud and AWS
+  - Extensive knowledge of SQL with experience of MySQL and SQLite
+  - Intellectually robust with methodical and analytical approach to problem-solving
+  - Excellent interpersonal skills exhibited through university group projects and summer interning
+  - Effective communicator skilled in adapting style to suit different audiences
+  - Proficient with Git, Linux, VSCode and writing unit tests and integration tests using JUnit
+  - Knowledge of Agile methodologies (Scrum, Kanban, XP), TDD and CI/CD
 
 
 ## ⚡ Fun fact
