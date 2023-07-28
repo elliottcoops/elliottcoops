@@ -30,7 +30,7 @@ I love dinghy sailing and rescued an adult when I was ten by single-handedly tow
 
 ## Objectives, short-term to long-term
 
-- 🔭 Secure an AI work placement for summer 2023
+- 🔭 Secure an AI year in industry placement for summer 2023
 - 🤔 Continue to add more public repos to my GitHub account
 - 🌱 Build and launch an ML side project before September 2023
 - 🤖 Complete a Masters in Artificial Intelligence
