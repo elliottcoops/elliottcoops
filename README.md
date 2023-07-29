@@ -13,7 +13,7 @@ I'm a first year student reading a [BSc in Computer Science with Artificial Inte
 - 👯 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliott-cooper-4847a7195/)
 
 
-## Skills and favourite tools
+## Skills and expertise
 
   - Strong academic record achieving 89% in Year 1 at university and A*A*A A-Levels at sixth form
   - Passion for technology demonstrated through work experience and personal projects
