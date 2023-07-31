@@ -1,8 +1,5 @@
 # Hi there, I'm Elliott Cooper
 
-Updated: July 2023
-
-> Currently on a work placement at Robotica Machine Learning
 
 I'm a first year student reading a [BSc in Computer Science with Artificial Intelligence and Year in Industry](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk).
 
@@ -10,7 +7,7 @@ I'm a first year student reading a [BSc in Computer Science with Artificial Inte
 ## Contact me
 
 - 💬 Say hi by emailing me at **elliottcoops@gmail.com**
-- 👯 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliott-cooper-4847a7195/)
+- 👯 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliottcoops)
 
 
 ## Skills and expertise
@@ -36,11 +33,12 @@ I love dinghy sailing and rescued an adult when I was ten by single-handedly tow
 
 ## Objectives, short-term to long-term
 
-- 🔭 Secure an AI year in industry placement for 2024 
-- 🤔 Continue to add more public repos to my GitHub account
+- 🔭 ~~Secure an AI work placement for summer 2023~~
+- 🤔 ~~Continue to add more public repos to my GitHub account~~
 - 🌱 Build and launch an ML side project before September 2023
+- 👍 Obtain an AI year in industry placement from June 2024
 - 🤖 Complete a Masters in Artificial Intelligence
-- 😄 Secure a role as an ML Engineer in London
+- 😄 Secure a role as a ML Engineer in London
 
 
 ## About my degree
@@ -77,9 +75,9 @@ The project started with exploring different open source software, until coming 
 
 After playing around with the software on my local machine for a few days, it was clear that, alongside my machine reaching tropical island temperatures, that the training phase was far too slow, and needed some form of cloud computing to assist with the work.
 
-Robotica had previously been awarded free credits for OvhCloud - A cloud computing resource, from a competition. I was asked to jump on a call with the team there, to educate them on our needs and requirements, alongside establishing a relationship with the company. 
+Robotica had previously been awarded free credits for OVHcloud, a cloud computing resource, from a competition. I was asked to jump on a call with the team there to educate them on our needs and requirements, alongside establishing a relationship with the company. 
 
-OvhCloud provides instances, or remote machines, of which you can ssh into and control via a CLI. The next task was finding a way to get the FaceSwap open source onto the machine, and I accomplished this via creating a docker image, pushing it up to a private registry, and pulling it onto the remote machine. In addition, the training data, arguably the most important aspect of the whole process, was uploaded to some online object storage, and pulled onto the remote machine. 
+OVHcloud provides instances, or remote machines, of which you can ssh into and control via a CLI. The next task was finding a way to get the FaceSwap open source onto the machine, and I accomplished this via creating a docker image, pushing it up to a private registry, and pulling it onto the remote machine. In addition, the training data, arguably the most important aspect of the whole process, was uploaded to some online object storage, and pulled onto the remote machine. 
 
 The whole experience has, once again, broadened my skills, knowledge, and insight into the world of AI and real world work, and makes me excited to learn more in the future.
 
