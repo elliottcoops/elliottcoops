@@ -35,7 +35,7 @@ I love dinghy sailing and rescued an adult when I was ten by single-handedly tow
 
 - 🔭 ~~Secure an AI work placement for summer 2023~~
 - 🤔 ~~Continue to add more public repos to my GitHub account~~
-- 🌱 Build and launch an ML side project before September 2023
+- 🌱 ~~Build and launch an ML side project before September 2023~~
 - 👍 Obtain an AI year in industry placement from June 2024
 - 🤖 Complete a Masters in Artificial Intelligence
 - 😄 Secure a role as a ML Engineer in London
@@ -47,18 +47,6 @@ I love dinghy sailing and rescued an adult when I was ten by single-handedly tow
 
 **September 2022 - July 2026**
 
-Year 1 modules completed so far (with results from a combination of exams and coursework)
-
-- Discrete mathematics - 78%
-- C programming and algorithms - 97%
-- Systems and architecture - 98%
-- Computer fundamentals - 98%
-- Linear algebra - 94%
-- Databases and interfaces - 84%
-- Java and Haskell - 78%
-- Fundamentals of AI - 90%
-- Software engineering - Group project and Exam - 82%
-
 Year 1 average: 89.5%
 
 ## Work experience so far
@@ -67,39 +55,45 @@ Year 1 average: 89.5%
 
 **Junior Software Developer, Summer Placement, June-July 2023**
 
-After last summer, I was kindly welcomed back to Robotica Machine Learning for a summer internship, taking the vast knowledge I had learnt from my first year, and applying it to a real working environment.
+Robotica is a tech startup developing a fully automated solution for translating speech from 20 languages into signed languages using a realistic human avatar. For summer 2023, I was invited back to undertake an R&D project to investigate whether deepfake technology could make their avatars more realistic.
 
-My task was a research and development project into deepfakes. At a high level, Robotica envisages their signing avatars to look more photorealistic, thus to accomplish this, a layer of deepfake is required.
+- Identified and evaluated multiple deep learning projects and selected the best performing tool
+- Built a local proof of concept
+- Converted that to a containerised Docker image with additional logic in the Dockerfile
+- Provisioned resources on OVHcloud to run containers more quickly
+- Included object storage, high performance instances and an image registry
+- Managed these resources using AWS CLI (compatible with OVHcloud)
+- Held a conference call with OVHcloud and established a strong supplier relationship with them
+- Supported the company at an event (Norfolk Deaf Festival) and addressed enquiries at their stall
 
-The project started with exploring different open source software, until coming across a solution which was most complete. Ironically, this software was called FaceSwap, found on github. There are three main stages to this, all of which I thoroughly investigated; Extract; Train; Convert. The findings of this were written up in an extensive report, given to Robotica at the end of my placement.
-
-After playing around with the software on my local machine for a few days, it was clear that, alongside my machine reaching tropical island temperatures, that the training phase was far too slow, and needed some form of cloud computing to assist with the work.
-
-Robotica had previously been awarded free credits for OVHcloud, a cloud computing resource, from a competition. I was asked to jump on a call with the team there to educate them on our needs and requirements, alongside establishing a relationship with the company. 
-
-OVHcloud provides instances, or remote machines, of which you can ssh into and control via a CLI. The next task was finding a way to get the FaceSwap open source onto the machine, and I accomplished this via creating a docker image, pushing it up to a private registry, and pulling it onto the remote machine. In addition, the training data, arguably the most important aspect of the whole process, was uploaded to some online object storage, and pulled onto the remote machine. 
-
-The whole experience has, once again, broadened my skills, knowledge, and insight into the world of AI and real world work, and makes me excited to learn more in the future.
 
 ### [Robotica, Norwich](https://robotica.media)
 
 **Junior Software Developer, Summer Placement, August 2022**
 
-Robotica is an ML tech startup developing a fully automated solution for translating speech from 20 languages into signed languages using a realistic human avatar. My goal was to gather and prepare MP3 audio and transcript data from the open source ebook Project Gutenberg, to help improve their lip-sync service.
+Robotica is a tech startup developing a fully automated solution for translating speech from 20 languages into signed languages using a realistic human avatar. I applied for a summer placement after completing my A-Levels and was asked to support an existing project by automating the extraction of MP3 audio and transcript data from open source ebook collection, Project Gutenberg.
 
-I wrote Python code to crawl the online project, create a SQLite database, query it, download the MP3 audio files and transcript files for each book, convert the MP3s to WAVs, and place them in individual folders. I then created a text chunker, which split sentences up on punctuation, placing the index of the first and last character along with the sentence into a complex data structure.
+- Developed Python code to scan the Project Gutenberg website and retrieve data
+- Explored and downloaded MP3 audio files and transcript files for each book programmatically
+- Used SQLite to store, query and manipulate the collected data
+- Wrote code to convert the MP3 audio files to WAV format for compatibility purposes
+- Output the files into individual folders for easy management and access during subsequent steps
 
-From here, Robotica were able to feed the data into a Montreal Forced Aligner to line up the speech with the text to help improve the lip-sync service.
 
 ### [Allies Computing, Norwich](https://www.alliescomputing.com)
 
 **Junior Software Developer, Summer Placement, August 2021**
 
+Allies provides postal address lookup technology to over 9,000 businesses around the world through their API called Postcoder. I applied for a summer placement and was invited to build a proof of concept for integrating Postcoder into Amazon Alexa. Here’s the press release they wrote about it: 
+
 > News article: [Allies work experience student plugs Postcoder into Alexa](https://alliescomputing.com/news/student-plugs-postcoder-into-alexa)
 
-Allies provides global address lookup and data validation to over 9,000 businesses around the world through their Postcoder API. My objective was to build and demonstrate a proof of concept that connects the Postcoder address lookup functionality into Amazon Alexa.
-
-I used Python within the web-based Alexa developer console to write the code to process spoken user input such as a postcode, make an address lookup request to Postcoder, parse the JSON that it returns, and then to provide a spoken response to the user.
+- Developed the proof of concept using Python within the web-based Alexa developer console
+- Implemented code to process spoken user input, specifically postcode information
+- Called Postcoder to make address lookups based on spoken user input
+- Parsed JSON response received from Postcoder API to extract relevant address information
+- Generated a spoken response using the extracted address details
+- Demonstrated the PoC to the Allies team; it also gained the interest of Royal Mail too
 
 
 ## Education
