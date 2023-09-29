@@ -1,7 +1,7 @@
 # Hi there, I'm Elliott Cooper
 
 
-I'm a first year student reading a [BSc in Computer Science with Artificial Intelligence and Year in Industry](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk).
+I'm a second year student reading a [BSc in Computer Science with Artificial Intelligence and Year in Industry](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk).
 
 
 ## Contact me
