@@ -36,14 +36,14 @@ I love dinghy sailing and rescued an adult when I was ten by single-handedly tow
 - 🔭 ~~Secure an AI work placement for summer 2023~~
 - 🤔 ~~Continue to add more public repos to my GitHub account~~
 - 🌱 ~~Build and launch an ML side project before September 2023~~
-- 👍 Obtain an AI year in industry placement from June 2024
+- 👍 Obtain an AI summer placement from June 2024
 - 🤖 Complete a Masters in Artificial Intelligence
 - 😄 Secure a role as a ML Engineer in London
 
 
 ## About my degree
 
-### [BSc in Computer Science with Artificial Intelligence and Year in Industry](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk)
+### [MSci in Computer Science with Artificial Intelligence](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk)
 
 **September 2022 - July 2026**
 
