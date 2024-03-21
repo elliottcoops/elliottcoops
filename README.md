@@ -1,7 +1,7 @@
 # Hi there, I'm Elliott Cooper
 
 
-I'm a second year student reading a [MSci in Computer Science with Artificial Intelligence](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk).
+I'm a second year student reading a [MSci in Computer Science with Artificial Intelligence](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-with-Artificial-Intelligence-MSci-Hons-U7UCMPAI.html) at the [University of Nottingham](https://www.nottingham.ac.uk).
 
 
 ## Contact me
@@ -43,7 +43,7 @@ I love dinghy sailing and rescued an adult when I was ten by single-handedly tow
 
 ## About my degree
 
-### [MSci in Computer Science with Artificial Intelligence](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk)
+### [MSci in Computer Science with Artificial Intelligence](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-with-Artificial-Intelligence-MSci-Hons-U7UCMPAI.html) at the [University of Nottingham](https://www.nottingham.ac.uk).
 
 **September 2022 - July 2026**
 
