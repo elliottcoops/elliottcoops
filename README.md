@@ -1,7 +1,7 @@
 # Hi there, I'm Elliott Cooper
 
 
-I'm a second year student reading a [BSc in Computer Science with Artificial Intelligence and Year in Industry](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk).
+I'm a second year student reading a [MSci in Computer Science with Artificial Intelligence](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html) at the [University of Nottingham](https://www.nottingham.ac.uk).
 
 
 ## Contact me
@@ -17,7 +17,7 @@ I'm a second year student reading a [BSc in Computer Science with Artificial Int
   - Poven understanding of advanced computer vision algorithms such as facial landmark detection 
   - Highly skilled in Python with TensorFlow, OpenCV, NumPy, pandas, scikit-learn and Matplotlib
   - Skilled in C, Haskell, Java, ARM assembly, PHP, HTML, JavaScript and CSS
-  - Experience working with Docker, VMs and cloud platforms including OVHcloud and AWS
+  - Experience working with Docker, Unity and C#, VMs and cloud platforms including OVHcloud and AWS
   - Extensive knowledge of SQL with experience of MySQL and SQLite
   - Intellectually robust with methodical and analytical approach to problem-solving
   - Excellent interpersonal skills exhibited through university group projects and summer interning
