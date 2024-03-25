@@ -16,7 +16,7 @@ I'm a second year student reading a [MSci in Computer Science with Artificial In
   - Passion for technology demonstrated through work experience and personal projects
   - Poven understanding of advanced computer vision algorithms such as facial landmark detection 
   - Highly skilled in Python with TensorFlow, OpenCV, NumPy, pandas, scikit-learn and Matplotlib
-  - Skilled in C, Haskell, Java, ARM assembly, Unity and C#, PHP, HTML, JavaScript and CSS
+  - Skilled in C, Haskell, Java, ARM assembly, C#, Unity, PHP, HTML, JavaScript and CSS
   - Experience working with Docker, VMs and cloud platforms including OVHcloud and AWS
   - Extensive knowledge of SQL with experience of MySQL and SQLite
   - Intellectually robust with methodical and analytical approach to problem-solving
