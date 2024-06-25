@@ -55,7 +55,7 @@ Year 2 average: TBD
 
 ### **Junior Developer @ [Robotica Machine Learning](https://robotica.media) | Summer 2023 | Speech to sign language translation**
 
-- Applied computer vision techniques to enhance the realism of the company’s sign language avatars.
+- Applied computer vision techniques to enhance the realism of the company’s sign language avatars
 - Identified deep learning project and created image dataset
 - Utilised AWS to provision resources (object storage and image registry)
 - Trained and managed resources through AWS CLI
@@ -63,14 +63,14 @@ Year 2 average: TBD
 
 ### **Junior Developer @ [Robotica Machine Learning](https://robotica.media) | Summer 2022 | Speech to sign language translation**
 
-- Curated a large dataset from Project Gutenberg (an open source ebook repo) to help train a model for lip syncing. 
+- Curated a large dataset from Project Gutenberg (an open source ebook repo) to help train a model for lip syncing
 - Developed a Python script to recursively traverse the repo and download MP3 audio and transcript files
 - Automated the conversion of MP3 to WAV and paired with transcripts into folders for training
 
 
 ### **Junior Developer @ [Allies Computing](https://www.alliescomputing.com) | Summer 2021 | Predictive address autocomplete API**
 
-- Integrated the company’s API product into Amazon Alexa for use by their 9,000 customers; [press release](https://alliescomputing.com/news/student-plugs-postcoder-into-alexa).
+- Integrated the company’s API product into Amazon Alexa for use by their 9,000 customers; [press release](https://alliescomputing.com/news/student-plugs-postcoder-into-alexa)
 - Developed an interface between the API and Alexa to successfully accept and process speech input
 
 
