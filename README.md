@@ -8,6 +8,7 @@ I'm a third year student reading a [MSci in Computer Science with Artificial Int
 
 - 💬 Say hi by emailing me at **elliottcoops@gmail.com**
 - 👯 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliottcoops)
+- 🌐 Check out my personal [website](https://elliottcoops.github.io/index.html) 
 
 
 ## Skills and expertise
@@ -47,13 +48,12 @@ I love dinghy sailing and rescued an adult when I was ten by single-handedly tow
 **September 2022 - July 2026**
 
 Year 1 average: 89.5%
+
 Year 2 average: TBD
 
 ## Work experience so far
 
-### [Robotica, Norwich](https://robotica.media)
-
-**Junior Developer @ Robotica Machine Learning | Summer 2023 | Speech to sign language translation**
+### **Junior Developer @ [Robotica Machine Learning](https://robotica.media) | Summer 2023 | Speech to sign language translation**
 
 - Applied computer vision techniques to enhance the realism of the company’s sign language avatars.
 - Identified deep learning project and created image dataset
@@ -61,18 +61,14 @@ Year 2 average: TBD
 - Trained and managed resources through AWS CLI
 
 
-### [Robotica, Norwich](https://robotica.media)
-
-**Junior Developer @ Robotica Machine Learning | Summer 2022 | Speech to sign language translation**
+### **Junior Developer @ [Robotica Machine Learning](https://robotica.media) | Summer 2022 | Speech to sign language translation**
 
 - Curated a large dataset from Project Gutenberg (an open source ebook repo) to help train a model for lip syncing. 
 - Developed a Python script to recursively traverse the repo and download MP3 audio and transcript files
 - Automated the conversion of MP3 to WAV and paired with transcripts into folders for training
 
 
-### [Allies Computing, Norwich](https://www.alliescomputing.com)
-
-**Junior Developer @ Allies Computing | Summer 2021 | Predictive address autocomplete API**
+### **Junior Developer @ [Allies Computing, Norwich](https://www.alliescomputing.com) | Summer 2021 | Predictive address autocomplete API**
 
 - Integrated the company’s API product into Amazon Alexa for use by their 9,000 customers; [press release](https://alliescomputing.com/news/student-plugs-postcoder-into-alexa).
 - Developed an interface between the API and Alexa to successfully accept and process speech input
