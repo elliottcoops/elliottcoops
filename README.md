@@ -75,7 +75,7 @@ Curated a large dataset from Project Gutenberg (an open source ebook repo) to he
 ### Junior Developer @ [Allies Computing](https://alliescomputing.com/)
 **Summer 2021 | Predictive address autocomplete API**
 
-Integrated the company’s API product into Amazon Alexa for use by their 9,000 customers; [press release](https://alliescomputing.com/news/student-plugs-postcoder-into-alexa)
+Integrated the company’s API product into Amazon Alexa for use by their 9,000 customers; [press release](https://alliescomputing.com/news/student-plugs-postcoder-into-alexa).
 
 1. Developed an interface between the API and Alexa to successfully accept and process speech input
 
