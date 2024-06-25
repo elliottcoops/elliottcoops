@@ -68,7 +68,7 @@ Year 2 average: TBD
 - Automated the conversion of MP3 to WAV and paired with transcripts into folders for training
 
 
-### **Junior Developer @ [Allies Computing, Norwich](https://www.alliescomputing.com) | Summer 2021 | Predictive address autocomplete API**
+### **Junior Developer @ [Allies Computing](https://www.alliescomputing.com) | Summer 2021 | Predictive address autocomplete API**
 
 - Integrated the company’s API product into Amazon Alexa for use by their 9,000 customers; [press release](https://alliescomputing.com/news/student-plugs-postcoder-into-alexa).
 - Developed an interface between the API and Alexa to successfully accept and process speech input
