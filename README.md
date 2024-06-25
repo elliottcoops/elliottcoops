@@ -72,7 +72,7 @@ Curated a large dataset from Project Gutenberg (an open source ebook repo) to he
 2. Automated the conversion of MP3 to WAV and paired with transcripts into folders for training
 
 
-### Junior Developer @ [Allies Computing](https://www.alliescomputing.com)
+### Junior Developer @ [Allies Computing](https://alliescomputing.com/)
 **Summer 2021 | Predictive address autocomplete API**
 
 Integrated the company’s API product into Amazon Alexa for use by their 9,000 customers; [press release](https://alliescomputing.com/news/student-plugs-postcoder-into-alexa)
