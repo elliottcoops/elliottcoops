@@ -49,7 +49,7 @@ I love dinghy sailing and rescued an adult when I was ten by single-handedly tow
 
 Year 1 average: 89.5%
 
-Year 2 average: TBD
+Year 2 average: 80%
 
 ## Work experience so far
 
