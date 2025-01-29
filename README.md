@@ -26,17 +26,10 @@ I'm a third year student reading a [MSci in Computer Science with Artificial Int
 | Deployment             	| Docker and AWS                                                                              	|
 | Soft skills            	| Collaborative team member with strong time management and adaptable communication abilities 	|
 
-
-## ⚡ Fun fact
-
-I love dinghy sailing and rescued an adult when I was ten by single-handedly towing their boat back to shore.
-
-
 ## Objectives, short-term to long-term
 
 - 🔭 ~~Secure an AI work placement for summer 2023~~
 - 🤔 ~~Continue to add more public repos to my GitHub account~~
-- 🌱 Build and launch an ML side project before September 2024
 - 🤖 Complete a Masters in Artificial Intelligence
 - 😄 Secure a role as a ML Engineer in London
 
