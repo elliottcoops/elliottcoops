@@ -22,7 +22,7 @@
 
 Currently a third-year MSci Computer Science with AI student at the University of Nottingham, experienced in machine learning and software engineering. Incoming intern at NatWest Group.
 
-### 👩‍💻 Languages
+### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,6 +31,12 @@ Currently a third-year MSci Computer Science with AI student at the University o
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🧪 Currently Working On
+Building a stable diffusion model with U-Net from scratch to generate cartoon-style human faces, trained on a stylised dataset for creative AI applications.
+
+
+
 
 
 
