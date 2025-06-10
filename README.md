@@ -33,7 +33,7 @@ Currently a third-year MSci Computer Science with AI student at the University o
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🧪 Currently Working On
-Building a stable diffusion model with U-Net from scratch to generate cartoon-style human faces, trained on a stylised dataset for fun!
+Building a stable diffusion model with a UNet from scratch to generate cartoon-style human faces!
 
 ### 🎯 Goals
 
