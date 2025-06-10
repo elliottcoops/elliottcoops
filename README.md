@@ -1,4 +1,22 @@
-## Hi there, I'm Elliott 👋
+<div align="center">
+
+  <h2>Hi there, I'm Elliott 👋</h2>
+
+  <a href="https://www.linkedin.com/in/elliottcoops">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/elliottcoops">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://elliottcoops.github.io/index.html">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+
+</div>
+
+<hr>
 
 
 Currently studying MSci Computer Science with AI at the University of Nottingham and interning at NatWest Group.
