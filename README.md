@@ -19,8 +19,7 @@
 
 <hr>
 
-
-Currently a third-year MSci Computer Science with AI student at the University of Nottingham, experienced in machine learning and software engineering. Incoming intern at NatWest Group.
+Fourth-year MSci Computer Science with AI student at the University of Nottingham and summer intern at NatWest Group.
 
 ### 👨‍💻 Languages
 
