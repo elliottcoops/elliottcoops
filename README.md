@@ -20,7 +20,7 @@
 <hr>
 
 
-Currently studying MSci Computer Science with AI at the University of Nottingham and interning at NatWest Group.
+Currently a third-year MSci Computer Science with AI student at the University of Nottingham, experienced in machine learning and software engineering. Incoming intern at NatWest Group.
 
 ### 👩‍💻 Languages
 
@@ -33,6 +33,4 @@ Currently studying MSci Computer Science with AI at the University of Nottingham
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-
-## Where to find me
 
