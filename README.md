@@ -35,6 +35,24 @@ Currently a third-year MSci Computer Science with AI student at the University o
 ### 🧪 Currently Working On
 Building a stable diffusion model with U-Net from scratch to generate cartoon-style human faces, trained on a stylised dataset for creative AI applications.
 
+### 📈 GitHub Overview
+
+<table align="center">
+  <tr>
+    <td valign="top" align="center">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=elliottcoops&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180" />
+    </td>
+    <td valign="top" align="center" style="padding-left: 40px;">
+      <h3>📝 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottcoops&layout=compact&theme=github_dark" alt="Top Languages" height="180" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
