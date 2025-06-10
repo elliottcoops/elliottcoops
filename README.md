@@ -35,6 +35,12 @@ Currently a third-year MSci Computer Science with AI student at the University o
 ### 🧪 Currently Working On
 Building a stable diffusion model with U-Net from scratch to generate cartoon-style human faces, trained on a stylised dataset for creative AI applications.
 
+### 🎯 Current goals
+
+- Secure a 2026 graduate job in fintech  
+- Contribute to Zipline-live open-source project  
+- Learn C++  
+
 ### 📈 GitHub Overview
 
 <table align="center">
