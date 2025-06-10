@@ -37,7 +37,7 @@ Building a stable diffusion model with a UNet from scratch to generate cartoon-s
 ### 🎯 Goals
 
 - Secure a 2026 graduate job in fintech  
-- Contribute to ![Qlib](https://github.com/microsoft/qlib) open-source project  
+- Contribute to [Qlib](https://github.com/microsoft/qlib) open-source project  
 - Learn C++  
 
 ### 📈 GitHub Overview
